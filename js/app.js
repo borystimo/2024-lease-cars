@@ -6,7 +6,7 @@ flsFunctions.isWebp();
 
 //Импорт swiper
 // import swiper from "./swiper.js"
-// import * as mySwiper from "./swiper.js"
+import * as mySwiper from "./swiper.js"
 
 
 //Импорт header burger
@@ -48,7 +48,7 @@ import * as lightDarkMode  from "./light-dark-mod.js"
 import * as activeHeaderLink  from "./active-header-link.js"
 
 // tabs
-// import * as tabsContent  from "./tabs.js"
+import * as tabsContent  from "./tabs.js"
 
 // scrollToTop
 import * as scrollToTop  from "./scroll-to-top.js"
